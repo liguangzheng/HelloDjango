@@ -13,6 +13,7 @@ middleware here, or combine a Django application with an application of another
 framework.
 
 """
+# -*- coding: utf-8 -*-
 import os
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "HelloDjango.settings")
